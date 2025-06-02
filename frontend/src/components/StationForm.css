@@ -1,0 +1,61 @@
+.station-form {
+  background-color: #ffffff;
+  padding: 16px;
+  font-family: "Poppins", sans-serif;
+}
+
+.station-form h3 {
+  margin-bottom: 12px;
+  font-size: 18px;
+  color: #007bff;
+  font-weight: 600;
+}
+
+.station-form-fields {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+
+.station-form label {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 14px;
+  color: #333;
+  font-weight: 500;
+}
+
+.station-form input,
+.station-form select {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  margin-bottom: 0px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  transition: border-color 0.2s ease;
+}
+
+.station-form input:focus,
+.station-form select:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+.station-form button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.station-form button:hover {
+  background-color: #005ecb;
+}
