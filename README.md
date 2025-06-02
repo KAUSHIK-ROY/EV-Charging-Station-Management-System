@@ -133,6 +133,8 @@ Here is a preview of the UI showing EV station details on the map:
 **Kaushik Roy**  
 GitHub: [KAUSHIK-ROY](https://github.com/KAUSHIK-ROY)  
 
+---
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
