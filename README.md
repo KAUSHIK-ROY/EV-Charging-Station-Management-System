@@ -115,7 +115,7 @@ npm start
 
 Here is a preview of the UI showing EV station details on the map:
 
-![EV Station Map View](./screenshots/ev-map-details.png)
+![EV Station Map View](https://github.com/KAUSHIK-ROY/EV-Charging-Station-Management-System/blob/main/Screenshot%202025-06-03%20013027.png?raw=true)
 
 
 ---
