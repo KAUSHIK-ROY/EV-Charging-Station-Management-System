@@ -60,7 +60,7 @@ npm install
 Create a `.env` file in the backend folder:
 
 ```env
-PORT=5000
+PORT = 5000
 DB_NAME = chargers_db
 DB_USER = root
 DB_PASSWORD = your_mysql_password
