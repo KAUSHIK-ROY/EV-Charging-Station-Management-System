@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://ev-charging-station-api.onrender.com',
+  baseURL: 'https://ev-charging-station-api.onrender.com/api',
 });
 
 
