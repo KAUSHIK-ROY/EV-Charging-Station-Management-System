@@ -60,12 +60,13 @@ npm install
 Create a `.env` file in the backend folder:
 
 ```env
-PORT = 5000
-DB_NAME = chargers_db
-DB_USER = root
-DB_PASSWORD = your_mysql_password
-DB_HOST = localhost
-JWT_SECRET = your_secret_key
+PORT=5000
+DB_NAME=database_name
+DB_USER=root
+DB_PASSWORD=your_mysql_password
+DB_HOST=localhost
+JWT_SECRET=your_secret_key
+DB_PORT=56252
 ```
 
 Run the backend:
@@ -125,6 +126,14 @@ Here is a preview of the UI showing EV station details on the map:
 - Make sure MySQL server is running before starting the backend
 - Create the `ev_charging` database manually or with Sequelize sync
 - Frontend and backend run on different ports (React on 3000, API on 5000)
+
+---
+
+## 🚀 Live Demo
+
+You can access the deployed project here:  
+🌐 [https://ev-charging-stations-liart.vercel.app](https://ev-charging-stations-liart.vercel.app)
+
 
 ---
 
